@@ -20,7 +20,5 @@ Unlike แอปบอกเส้นทางทั่วไป
 
 Our product สามารถบอกตำแหน่งเพื่อให้คุณวางแผน ทำให้คุณสามารถประหยัดเวลาของคุณได้.
 
-## 🔗 Repository Structure
-- `/docs` – project vision & planning docs
-- `/src` – project source code
+
 
